@@ -15,7 +15,7 @@ header{
 .half{
     text-align: center;
     padding-top: 15%;
-    color: #ddd;
+    color: white;
 }
 .half h1{
     font-size: 40px;
@@ -27,8 +27,43 @@ header{
 }
 .title{
     padding: 10px 20px;
-    background-color: tomato;
+    background-color: coral;
     border-radius: 5px;
     color: white;
-    padding-top: 10px;
+    font-weight: 700;
+}
+.flex{
+    text-align: center;
+    padding-top: 80px;
+}
+.flexible-container{
+    display: flex;
+    margin: 40px 500px 40px 500px;
+}
+.flexible{
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px 10px;
+    margin: 5px;
+    background-color: rgb(249, 241, 238);
+}
+.flexible h1{
+    color: gray;
+    font-weight: 700;
+}
+#box{
+    border: 1px solid coral;
+}
+.new{
+    color: coral;
+}
+.container{
+    text-align: center;
+}
+.contain p{
+    color: gray;
+}
+hr{
+    color: gray;
+    margin: 0 500px 0 500px;
 }

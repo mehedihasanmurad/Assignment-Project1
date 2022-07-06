@@ -45,7 +45,6 @@ header{
     border-radius: 5px;
     padding: 20px 10px;
     margin: 5px;
-    background-color: rgb(249, 241, 238);
 }
 .flexible h1{
     color: gray;
@@ -53,6 +52,7 @@ header{
 }
 #box{
     border: 1px solid coral;
+    background-color: rgb(249, 241, 238);
 }
 .new{
     color: coral;
@@ -92,6 +92,29 @@ hr{
 }
 .education{
     background-color: #7FFFD4;
+}
+.new-title{
+    display: flex;
+    margin-top: 40px;
+    margin-left: 120px;
+}
+.extra-line{
+    text-align: center;
+}
+.extra-line p{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.extra-line a{
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 30px;
+    color: white;
+    border-radius: 10px;
+}
+.new-line img{
+    width: 450px;
+    padding-left: 100px;
 }
 .word{
     text-align: center;

@@ -93,3 +93,31 @@ hr{
 .education{
     background-color: #7FFFD4;
 }
+.word{
+    text-align: center;
+    margin: 40px 200px 40px 200px;
+    padding: 50px;
+    background-color: #FAEBD7;
+}
+.words{
+    background-color: #aac8e2;
+    padding: 5px;
+}
+.hello{
+    background-color: coral;
+    padding: 5px 20px;
+    color: white;
+    font-weight: 700;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: #ddd;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+footer h1{
+    font-family: 'Courier New', Courier, monospace;
+    color: tomato;
+    padding-bottom: 10px;
+}

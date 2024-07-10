@@ -32,6 +32,9 @@ header{
     color: white;
     font-weight: 700;
 }
+.title:hover{
+    background-color: tomato;
+}
 .flex{
     text-align: center;
     padding-top: 80px;
@@ -112,6 +115,11 @@ hr{
     color: white;
     border-radius: 10px;
 }
+
+.extra-line a:hover {
+    background-color: coral;
+}
+
 .new-line img{
     width: 450px;
     padding-left: 100px;
